@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ramma/X/C_LESSON/main.c
+stdio.h
+-
+variable_format_specifiers.c
+/home/ramma/X/C_LESSON/variable_format_specifiers.c
+
+/home/ramma/X/C_LESSON/variable_format_specifiers.c
+stdio.h
+-
+

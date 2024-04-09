@@ -1,0 +1,3 @@
+/home/ramma/X/C_LESSON/build/CMakeFiles/rebuild_cache.dir
+/home/ramma/X/C_LESSON/build/CMakeFiles/edit_cache.dir
+/home/ramma/X/C_LESSON/build/CMakeFiles/run.dir
