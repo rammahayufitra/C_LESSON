@@ -6,11 +6,29 @@
 
 #IncludeRegexTransform: 
 
+/home/ramma/X/C_LESSON/boolean.c
+stdio.h
+-
+
+/home/ramma/X/C_LESSON/constan.c
+stdio.h
+-
+
+/home/ramma/X/C_LESSON/data_type.c
+stdio.h
+-
+
 /home/ramma/X/C_LESSON/main.c
 stdio.h
 -
 variable_format_specifiers.c
 /home/ramma/X/C_LESSON/variable_format_specifiers.c
+data_type.c
+/home/ramma/X/C_LESSON/data_type.c
+constan.c
+/home/ramma/X/C_LESSON/constan.c
+boolean.c
+/home/ramma/X/C_LESSON/boolean.c
 
 /home/ramma/X/C_LESSON/variable_format_specifiers.c
 stdio.h
